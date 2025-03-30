@@ -12,3 +12,5 @@ Login.java --> File with code for login window when logging in and saving creden
 Register.java --> File with code for register window for creating new users in the DB.
 ChatWindow.java --> File that has code for the window where you will be able to chat with other users.
 Stats.java --> Potential File for storing user stats, such as amount of chats made etc etc.
+
+Test Change to check if my git is working properly
